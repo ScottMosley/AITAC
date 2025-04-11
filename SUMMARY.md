@@ -23,16 +23,6 @@
 
 * [Guidelines](guidelines.md)
 
-## For Inidividuals
-
-* [Risks](risks.md)
-* [Training](training-1.md)
-
 ## About
 
 * [Partners](about/partners.md)
-
-***
-
-* [GitHub](github.md)
-* [Discord](discord.md)

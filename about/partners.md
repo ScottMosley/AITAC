@@ -14,3 +14,5 @@ layout:
 
 # Partners
 
+The following people/groups have contributed to this project:&#x20;
+
