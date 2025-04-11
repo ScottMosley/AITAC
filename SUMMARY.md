@@ -25,8 +25,6 @@
 
 ## For Inidividuals
 
-***
-
 * [Risks](risks.md)
 * [Training](training-1.md)
 
